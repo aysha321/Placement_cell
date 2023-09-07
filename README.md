@@ -41,3 +41,4 @@ Environment Variables:
 - PORT = [Your Port]
 - SECRET = [Your Secret]
 - MONGO_URI = [Your MongoDB Ur]
+Hosted link- https://placement-cell.onrender.com/
